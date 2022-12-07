@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 07 10:19:56 WAT 2022","Wed Dec 07 10:20:01 WAT 2022","5015","Default Suite","KongaProject","KongaSignInTest","KongaSignInTest","getTitle","getTitle",""
+"passed","Wed Dec 07 10:20:19 WAT 2022","Wed Dec 07 10:20:39 WAT 2022","20705","Default Suite","KongaProject","KongaSignInTest","KongaSignInTest","incorrectEmail","incorrectEmail",""
+"passed","Wed Dec 07 10:20:39 WAT 2022","Wed Dec 07 10:20:58 WAT 2022","18761","Default Suite","KongaProject","KongaSignInTest","KongaSignInTest","incorrectPassword","incorrectPassword",""
+"passed","Wed Dec 07 10:21:14 WAT 2022","Wed Dec 07 10:21:30 WAT 2022","16189","Default Suite","KongaProject","KongaSignInTest","KongaSignInTest","confirmSignIn","confirmSignIn",""
+"passed","Wed Dec 07 10:20:01 WAT 2022","Wed Dec 07 10:20:19 WAT 2022","18111","Default Suite","KongaProject","KongaSignInTest","KongaSignInTest","validSignIn","validSignIn",""
+"passed","Wed Dec 07 10:20:58 WAT 2022","Wed Dec 07 10:21:14 WAT 2022","15564","Default Suite","KongaProject","KongaSignInTest","KongaSignInTest","blankFields","blankFields",""
